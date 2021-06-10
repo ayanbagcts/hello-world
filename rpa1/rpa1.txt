@@ -1,1 +1,2 @@
 this is part of rpa1
+adding second line in rpa1.txt file while another edit was in progress in a different branch
