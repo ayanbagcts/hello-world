@@ -1,2 +1,3 @@
 this is part of rpa1
 Added a line in rpa1.txt file for the first time
+adding second line in rpa1.txt file while another edit was in progress in a different branch
